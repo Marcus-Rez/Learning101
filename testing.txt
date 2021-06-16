@@ -1,0 +1,5 @@
+Now i understand "Copy con" will create the file and then also allow you to add an input into this file whereas,
+mkdir will just create the file with the name you have given it.
+
+This file has been modified to test the git diff
+Testing again to test git status
